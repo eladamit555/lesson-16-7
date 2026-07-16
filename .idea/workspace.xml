@@ -1,14 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="604f1606-19bb-4d22-acd2-a63a323ddcd1" name="Changes" comment="" />
+    <list default="true" id="604f1606-19bb-4d22-acd2-a63a323ddcd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/diag24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lesson16-7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson16-7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eladamit555"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eladamit555/lesson16-7.git",
+    "accountId": "cf23a373-d230-4fe7-9893-0a31c67e819d"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000013672" />
+      <entry key="MS500" value="1.00671730496155" />
+      <entry key="S2" value="1.3122864505891958" />
+      <entry key="S5" value="1.838639826758551" />
+      <entry key="S10" value="2.265414266289046" />
+      <entry key="S30" value="3.2763735789624246" />
+      <entry key="S60" value="5.275723918522182" />
+      <entry key="M2" value="8.352130153219825" />
+      <entry key="M5" value="12.056726500850154" />
+      <entry key="M10" value="13.837508995883608" />
+      <entry key="M15" value="14.511889332633588" />
+      <entry key="M30" value="15.23161395651421" />
+      <entry key="H1" value="15.609507172640866" />
+      <entry key="H2" value="15.803150598677485" />
+      <entry key="H4" value="15.90117099030634" />
+      <entry key="D1" value="15.983472039293794" />
+      <entry key="W1" value="15.997637476088265" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8705505633079439" />
+      <entry key="MS500" value="0.9791791721645462" />
+      <entry key="S2" value="1.2950964790153148" />
+      <entry key="S5" value="1.8014202811535949" />
+      <entry key="S10" value="2.2275099448468483" />
+      <entry key="S30" value="3.2440435214181855" />
+      <entry key="S60" value="5.238139695324811" />
+      <entry key="M2" value="8.316981298221801" />
+      <entry key="M5" value="12.034891245139523" />
+      <entry key="M10" value="13.824736817832097" />
+      <entry key="M15" value="14.502907627334467" />
+      <entry key="M30" value="15.226874299144741" />
+      <entry key="H1" value="15.607072095230516" />
+      <entry key="H2" value="15.801916351166243" />
+      <entry key="H4" value="15.900549638756683" />
+      <entry key="D1" value="15.983367889166447" />
+      <entry key="W1" value="15.997622582955106" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8,
@@ -22,12 +107,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.diag24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +138,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784211682204</updated>
-      <workItem from="1784211683320" duration="2000" />
+      <workItem from="1784211683320" duration="1412000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
