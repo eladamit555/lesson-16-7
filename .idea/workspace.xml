@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="604f1606-19bb-4d22-acd2-a63a323ddcd1" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/while_continue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,60 +38,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001175859238143" />
-      <entry key="S2" value="1.1080828676894308" />
-      <entry key="S5" value="1.5139115397841842" />
-      <entry key="S10" value="1.9666982586893411" />
-      <entry key="S30" value="2.559965333485368" />
-      <entry key="S60" value="3.043464615587024" />
-      <entry key="M2" value="5.154926068661952" />
-      <entry key="M5" value="15.092030748740633" />
-      <entry key="M10" value="31.439078793513044" />
-      <entry key="M15" value="45.706525205079544" />
-      <entry key="M30" value="77.19009296785096" />
-      <entry key="H1" value="113.59770567098474" />
-      <entry key="H2" value="147.27244813042645" />
-      <entry key="H4" value="171.95702863068087" />
-      <entry key="D1" value="198.76838224798342" />
-      <entry key="W1" value="204.08973522679906" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000092011" />
+      <entry key="S5" value="1.0001024442747073" />
+      <entry key="S10" value="1.0127162541215158" />
+      <entry key="S30" value="1.4695320369551526" />
+      <entry key="S60" value="2.581217183636288" />
+      <entry key="M2" value="5.540614378736921" />
+      <entry key="M5" value="13.688465829607644" />
+      <entry key="M10" value="22.03641993948326" />
+      <entry key="M15" value="30.166137551640755" />
+      <entry key="M30" value="56.95186649932783" />
+      <entry key="H1" value="99.84278277936913" />
+      <entry key="H2" value="146.34757324573926" />
+      <entry key="H4" value="183.35512848592248" />
+      <entry key="D1" value="225.82460394439266" />
+      <entry key="W1" value="234.50686427174966" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="6.382115388783587E-197" />
-      <entry key="S10" value="7.988814297994168E-99" />
-      <entry key="S30" value="1.999067423384201E-33" />
-      <entry key="S60" value="4.471093181073515E-17" />
-      <entry key="M2" value="6.686623348950884E-9" />
-      <entry key="M5" value="5.371341244021463E-4" />
-      <entry key="M10" value="0.023176154219415823" />
-      <entry key="M15" value="0.08128821394666408" />
-      <entry key="M30" value="0.2851108800917004" />
-      <entry key="H1" value="0.5339577512235394" />
-      <entry key="H2" value="0.7307241279878058" />
-      <entry key="H4" value="0.8548240333471002" />
-      <entry key="D1" value="0.9741955033435569" />
-      <entry key="W1" value="0.9962722121794887" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="3.6389754560993224E-172" />
+      <entry key="S30" value="7.139367021501499E-58" />
+      <entry key="S60" value="2.671959397427574E-29" />
+      <entry key="M2" value="5.169099919161527E-15" />
+      <entry key="M5" value="1.929149882703487E-6" />
+      <entry key="M10" value="0.0013889384013351658" />
+      <entry key="M15" value="0.012448642363538955" />
+      <entry key="M30" value="0.11157348414179301" />
+      <entry key="H1" value="0.33402617283948355" />
+      <entry key="H2" value="0.5779499743398936" />
+      <entry key="H4" value="0.7602302114096047" />
+      <entry key="D1" value="0.9553390293267018" />
+      <entry key="W1" value="0.9934942550264798" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8888426811665702" />
-      <entry key="MS500" value="0.9767085756018763" />
-      <entry key="S2" value="1.0102586068786448" />
-      <entry key="S5" value="1.2554757432424148" />
-      <entry key="S10" value="1.6988964548522347" />
-      <entry key="S30" value="2.4091641333199556" />
-      <entry key="S60" value="2.9551869343372283" />
-      <entry key="M2" value="5.099464597501359" />
-      <entry key="M5" value="15.049506346838461" />
-      <entry key="M10" value="31.422263144015762" />
-      <entry key="M15" value="45.750205746613716" />
-      <entry key="M30" value="77.44380436017448" />
-      <entry key="H1" value="114.10818006767144" />
-      <entry key="H2" value="147.98771771161435" />
-      <entry key="H4" value="172.80275626501768" />
-      <entry key="D1" value="199.74081415335246" />
-      <entry key="W1" value="205.08574849300444" />
+      <entry key="MS100" value="8.680104308267286E-4" />
+      <entry key="MS500" value="0.24417713224055687" />
+      <entry key="S2" value="0.7029529328655977" />
+      <entry key="S5" value="0.8685843965870104" />
+      <entry key="S10" value="0.9436021632763644" />
+      <entry key="S30" value="1.4371377644285288" />
+      <entry key="S60" value="2.5543301831354364" />
+      <entry key="M2" value="5.510409197494494" />
+      <entry key="M5" value="13.656664378055837" />
+      <entry key="M10" value="22.011586704405104" />
+      <entry key="M15" value="30.15446651648358" />
+      <entry key="M30" value="57.040499263104365" />
+      <entry key="H1" value="100.15637263098672" />
+      <entry key="H2" value="146.91031486802007" />
+      <entry key="H4" value="184.1057475046026" />
+      <entry key="D1" value="226.77795584677511" />
+      <entry key="W1" value="235.50006339204432" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -107,6 +108,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.2.executor": "Run",
     "Python.diag24.executor": "Run",
+    "Python.while_continue.executor": "Run",
     "Python.while_true.executor": "Run",
     "Python.while_true2.executor": "Run",
     "Python.while_true3.executor": "Run",
@@ -140,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784211682204</updated>
-      <workItem from="1784211683320" duration="12378000" />
+      <workItem from="1784211683320" duration="13550000" />
     </task>
     <task id="LOCAL‎-00001" summary=".">
       <option name="closed" value="true" />
@@ -166,7 +168,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1784223974751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎-00004" summary=".">
+      <option name="closed" value="true" />
+      <created>1784225607841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1784225607841</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,8 +211,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lesson16_7$2.coverage" NAME="2 Coverage Results" MODIFIED="1784216447245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diag24" />
     <SUITE FILE_PATH="coverage/lesson16_7$while_true2.coverage" NAME="while_true2 Coverage Results" MODIFIED="1784223198008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson16_7$while_continue.coverage" NAME="while_continue Coverage Results" MODIFIED="1784226520200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lesson16_7$while_true.coverage" NAME="while_true Coverage Results" MODIFIED="1784221059444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lesson16_7$diag24.coverage" NAME="diag24 Coverage Results" MODIFIED="1784214715223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lesson16_7$while_true3.coverage" NAME="while_true3 Coverage Results" MODIFIED="1784223937428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson16_7$while_true3.coverage" NAME="while_true3 Coverage Results" MODIFIED="1784225557816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
