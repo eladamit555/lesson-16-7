@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="604f1606-19bb-4d22-acd2-a63a323ddcd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/diag24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lesson16-7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson16-7.iml" afterDir="false" />
+    <list default="true" id="604f1606-19bb-4d22-acd2-a63a323ddcd1" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/diag24/2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +37,23 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000013672" />
-      <entry key="MS500" value="1.00671730496155" />
-      <entry key="S2" value="1.3122864505891958" />
-      <entry key="S5" value="1.838639826758551" />
-      <entry key="S10" value="2.265414266289046" />
-      <entry key="S30" value="3.2763735789624246" />
-      <entry key="S60" value="5.275723918522182" />
-      <entry key="M2" value="8.352130153219825" />
-      <entry key="M5" value="12.056726500850154" />
-      <entry key="M10" value="13.837508995883608" />
-      <entry key="M15" value="14.511889332633588" />
-      <entry key="M30" value="15.23161395651421" />
-      <entry key="H1" value="15.609507172640866" />
-      <entry key="H2" value="15.803150598677485" />
-      <entry key="H4" value="15.90117099030634" />
-      <entry key="D1" value="15.983472039293794" />
-      <entry key="W1" value="15.997637476088265" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000189" />
+      <entry key="S2" value="1.0003704329365357" />
+      <entry key="S5" value="1.0424115319080802" />
+      <entry key="S10" value="1.2060496030378682" />
+      <entry key="S30" value="1.6383100655962486" />
+      <entry key="S60" value="1.9871072620264925" />
+      <entry key="M2" value="2.3748327333525876" />
+      <entry key="M5" value="3.901137303009285" />
+      <entry key="M10" value="7.459315783329943" />
+      <entry key="M15" value="10.7448531147728" />
+      <entry key="M30" value="17.59614219335453" />
+      <entry key="H1" value="23.923399895921168" />
+      <entry key="H2" value="28.361147031955436" />
+      <entry key="H4" value="31.00962602244738" />
+      <entry key="D1" value="33.47584629060895" />
+      <entry key="W1" value="33.92446193708449" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -76,23 +75,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8705505633079439" />
-      <entry key="MS500" value="0.9791791721645462" />
-      <entry key="S2" value="1.2950964790153148" />
-      <entry key="S5" value="1.8014202811535949" />
-      <entry key="S10" value="2.2275099448468483" />
-      <entry key="S30" value="3.2440435214181855" />
-      <entry key="S60" value="5.238139695324811" />
-      <entry key="M2" value="8.316981298221801" />
-      <entry key="M5" value="12.034891245139523" />
-      <entry key="M10" value="13.824736817832097" />
-      <entry key="M15" value="14.502907627334467" />
-      <entry key="M30" value="15.226874299144741" />
-      <entry key="H1" value="15.607072095230516" />
-      <entry key="H2" value="15.801916351166243" />
-      <entry key="H4" value="15.900549638756683" />
-      <entry key="D1" value="15.983367889166447" />
-      <entry key="W1" value="15.997622582955106" />
+      <entry key="MS100" value="2.4947952605778283E-15" />
+      <entry key="MS500" value="0.00120062389380559" />
+      <entry key="S2" value="0.18636389800362746" />
+      <entry key="S5" value="0.544788784963877" />
+      <entry key="S10" value="0.8998936260997709" />
+      <entry key="S30" value="1.5104153423353213" />
+      <entry key="S60" value="1.9158036350313348" />
+      <entry key="M2" value="2.335703627035205" />
+      <entry key="M5" value="3.881875383938767" />
+      <entry key="M10" value="7.446039646423022" />
+      <entry key="M15" value="10.733859427987529" />
+      <entry key="M30" value="17.588473120368544" />
+      <entry key="H1" value="23.91857837580576" />
+      <entry key="H2" value="28.35839233384826" />
+      <entry key="H4" value="31.008146311890222" />
+      <entry key="D1" value="33.475583808837605" />
+      <entry key="W1" value="33.92442402774954" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -107,6 +106,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2.executor": "Run",
     "Python.diag24.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -138,12 +138,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784211682204</updated>
-      <workItem from="1784211683320" duration="1412000" />
+      <workItem from="1784211683320" duration="4207000" />
     </task>
+    <task id="LOCAL‎-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1784213738385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1784213738385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,5 +168,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lesson16_7$2.coverage" NAME="2 Coverage Results" MODIFIED="1784216447245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diag24" />
+    <SUITE FILE_PATH="coverage/lesson16_7$diag24.coverage" NAME="diag24 Coverage Results" MODIFIED="1784214715223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
